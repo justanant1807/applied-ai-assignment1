@@ -482,7 +482,7 @@ However, this will:
 
 -   Still be CPU-only and relatively slow.
 
-For this coursework, this complexity is **not required** and is documented here only as a possible extension.
+
 
 * * * * *
 
@@ -529,7 +529,6 @@ This setup gives you:
 
 -   A clean **cloud-hosted UI/demo** with clear limitations due to weight size.
 
- `Use this as your final `README.md`, then:
 
 ```bash
 git add README.md
