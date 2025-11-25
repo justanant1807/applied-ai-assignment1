@@ -1,0 +1,17 @@
+# Python / env
+.venv/
+__pycache__/
+*.pyc
+
+# Outputs and logs
+out/
+
+# Ignore full dataset by default (we'll selectively add a few)
+bin-images/
+metadata/
+
+# Ignore large weights by default (you can handle separately)
+weights/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
