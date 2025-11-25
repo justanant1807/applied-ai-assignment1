@@ -1,6 +1,5 @@
 boto3
 opencv-python-headless
-opencv-python
 numpy
 pandas
 torch
@@ -8,7 +7,6 @@ torchvision
 timm
 Pillow
 tqdm
-pycocotools
 scikit-image
 matplotlib
 ftfy
