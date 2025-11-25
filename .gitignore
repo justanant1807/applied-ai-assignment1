@@ -11,7 +11,7 @@ bin-images/
 metadata/
 
 # Ignore large weights by default (you can handle separately)
-weights/
+
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
