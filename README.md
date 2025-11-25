@@ -7,6 +7,8 @@ This repository contains a working prototype of a **computer vision system** tha
 - Verifies whether the **items and quantities** in an order match what is visible in the bin.
 - Exposes a simple **Streamlit web UI** for interactive validation and demo.
 
+the following is the streamlit link : https://applied-ai-assignment1-yksxtsbn2qrtwazp9zxbym.streamlit.app/
+
 ---
 
 ## 1. Project structure
