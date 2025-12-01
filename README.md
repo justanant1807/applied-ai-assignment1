@@ -9,6 +9,8 @@ This repository contains a working prototype of a **computer vision system** tha
 - Exposes a simple **Streamlit web UI** for interactive validation and demo.
 - Includes evaluation scripts and plots to quantify performance.
 
+- website : https://huggingface.co/spaces/justanant/applied-ai-bin-verification
+
 The system is designed to run on **CPU** (no GPU required), both locally and—partially—on Streamlit Cloud.
 
 ---
